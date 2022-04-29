@@ -1,6 +1,6 @@
 # @snaphooks/npm-tool-template
 
-## Installation
+## Introduction
 a template for creating a npm package or tool library
 
 ## Why use
